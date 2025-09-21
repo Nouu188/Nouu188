@@ -2,16 +2,16 @@
 
 ### Hi 👋, I'm Duong Phuoc Thinh a.k.a Nouu
 
-Mình hiện đang là một lập trình viên backend đến từ Việt Nam với hơn 6 tháng kinh nghiệm, đang có định hướng trở thành một Fullstack engineer.
-Hãy liên hệ với mình nếu có bất kỳ dự án Freelance nào.
+I’m a backend developer from Vietnam with over 6 months of professional experience, currently aiming to become a Fullstack Engineer.  
+Feel free to reach out if you have any Freelance Projects.
 
 ---
 
-### **Languages and Tools:**
-- Chủ yếu làm việc với **Backend** (Node.js, NestJS, GraphQL, PostgreSQL, Redis, RabbitMQ, Kafka).
-- Có kinh nghiệm với **Frontend** (HTML, CSS, React, Next.js, React Native, Reactjs).
-- Đang tìm hiểu về **DevOps** (Docker, Kubernetes, Grafana, Linux).
-- Sử dụng các công cụ **Git, Postman** cho quản lý và kiểm thử.
+### **Languages and Tools**
+- Mainly working on **Backend** (Node.js, NestJS, GraphQL, PostgreSQL, Redis, RabbitMQ, Kafka).
+- Experienced with **Frontend** (HTML, CSS, React, Next.js, React Native).
+- Exploring **DevOps** (Docker, Kubernetes, Grafana, Linux).
+- Daily use of **Git, Postman** for version control and testing.
 
 ---
 
@@ -24,7 +24,7 @@ Hãy liên hệ với mình nếu có bất kỳ dự án Freelance nào.
   <a href="https://graphql.org"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="40" height="40"/></a>
 </p>
 
-### **OS Stack**
+### **Operating System Stack**
 <p align="left">
   <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a>
 </p>
@@ -40,7 +40,7 @@ Hãy liên hệ với mình nếu có bất kỳ dự án Freelance nào.
   <a href="https://kafka.apache.org/"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40" height="40"/></a>
 </p>
 
-### **Dev Stack**
+### **Frontend & Development Stack**
 <p align="left">
   <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
@@ -56,7 +56,7 @@ Hãy liên hệ với mình nếu có bất kỳ dự án Freelance nào.
   <a href="https://grafana.com"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" height="40"/></a>
 </p>
 
-### **Project Management Stack**
+### **Project Management Tools**
 <p align="left">
   <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
   <a href="https://postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a>
@@ -64,7 +64,7 @@ Hãy liên hệ với mình nếu có bất kỳ dự án Freelance nào.
 
 ---
 
-### **Connect with me:**
-- 💬 Hỏi mình về **Backend, Node.js, NestJS**
-- 📫 Cách liên hệ với mình: **dg.pthinh@gmail.com**
-- ⚡ Fun fact: **Mình có thể hát và sáng tác nhạc 🎶**
+### **Connect with me**
+- 💬 Ask me about **Backend, Node.js, NestJS**  
+- 📫 How to reach me: **dg.pthinh@gmail.com**  
+- ⚡ Fun fact: **I can sing and compose music 🎶**
