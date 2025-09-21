@@ -8,9 +8,8 @@ Feel free to reach out if you have any Freelance Projects.
 ---
 
 ### **About Me**
-- 🎓 I’m a **third-year Software Engineering student at UIT (University of Information Technology, VNU-HCM)**.  
-- 💡 I have a strong passion for **software development**, especially in understanding **system architecture**, **how things work under the hood**, and capturing the **essence of problems**.  
-- 🚀 Always curious and eager to explore new technologies to sharpen my skills and broaden my horizons.  
+- I’m a **third-year Software Engineering student at UIT (University of Information Technology, VNU-HCM)**.  
+- I have a strong passion for **software development**, especially in understanding **system architecture**, **how things work under the hood**, and capturing the **essence of problems**.  
 
 ---
 
