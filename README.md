@@ -5,9 +5,6 @@
 **Nouu** là một lập trình viên backend đến từ Việt Nam với hơn 6 tháng kinh nghiệm, đang có định hướng trở thành một Fullstack engineer.
 Hãy liên hệ với tôi nếu bạn có bất kỳ dự án Freelance nào.
 
-**Schedule a 1-on-1 Call:**
-[Book a Call with me!](mailto:dg.pthinh@gmail.com)
-
 ---
 
 ### **Languages and Tools:**
