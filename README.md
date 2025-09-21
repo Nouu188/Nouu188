@@ -14,10 +14,7 @@ Feel free to reach out if you have any Freelance Projects.
 ---
 
 ### **Languages and Tools**
-- Mainly working on **Backend** (Node.js, NestJS, GraphQL, PostgreSQL, Redis, RabbitMQ, Kafka).
-- Experienced with **Frontend** (HTML, CSS, React, Next.js, React Native).
-- Exploring **DevOps** (Docker, Kubernetes, Grafana, Linux).
-- Daily use of **Git, Postman** for version control and testing.
+I focus on building **scalable backend systems**, exploring **frontend development**, and expanding my knowledge in **DevOps and cloud-native technologies**.  
 
 ---
 
