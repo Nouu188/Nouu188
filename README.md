@@ -30,7 +30,7 @@ I focus on building **scalable backend systems**, exploring **frontend developme
 ### **Operating System Stack**
 <p align="left">
   <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a>
-  <a href="https://ubuntu.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Ubuntu_logo.svg" width="40" height="40"/></a>
+  <a href="https://ubuntu.com/"><img src="[https://upload.wikimedia.org/wikipedia/commons/3/3e/Ubuntu_logo.svg](https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg)" width="40" height="40"/></a>
   <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
 </p>
 
