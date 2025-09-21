@@ -1,7 +1,5 @@
 <img align="right" alt="coder" width="450" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif"/>
 
----
-
 ### Hi 👋, I'm Duong Phuoc Thinh a.k.a Nouu
 
 I’m a backend developer from Vietnam with over 6 months of professional experience, currently aiming to become a Fullstack Engineer.  
