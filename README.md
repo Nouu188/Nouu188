@@ -30,6 +30,8 @@ I focus on building **scalable backend systems**, exploring **frontend developme
 ### **Operating System Stack**
 <p align="left">
   <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a>
+  <a href="https://ubuntu.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Ubuntu_logo.svg" width="40" height="40"/></a>
+  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
 </p>
 
 ### **Database Stack**
@@ -41,6 +43,8 @@ I focus on building **scalable backend systems**, exploring **frontend developme
   <a href="https://redis.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40"/></a>
   <a href="https://www.rabbitmq.com"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="40" height="40"/></a>
   <a href="https://kafka.apache.org/"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40" height="40"/></a>
+  <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
+  <a href="https://isocpp.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
 </p>
 
 ### **Frontend & Development Stack**
