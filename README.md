@@ -2,8 +2,8 @@
 
 ### Hi 👋, I'm Duong Phuoc Thinh a.k.a Nouu
 
-**Nouu** là một lập trình viên backend đến từ Việt Nam với hơn 6 tháng kinh nghiệm, đang có định hướng trở thành một Fullstack engineer.
-Hãy liên hệ với tôi nếu bạn có bất kỳ dự án Freelance nào.
+Mình hiện đang là một lập trình viên backend đến từ Việt Nam với hơn 6 tháng kinh nghiệm, đang có định hướng trở thành một Fullstack engineer.
+Hãy liên hệ với mình nếu có bất kỳ dự án Freelance nào.
 
 ---
 
@@ -65,6 +65,6 @@ Hãy liên hệ với tôi nếu bạn có bất kỳ dự án Freelance nào.
 ---
 
 ### **Connect with me:**
-- 💬 Hỏi tôi về **Backend, Node.js, NestJS**
-- 📫 Cách liên hệ với tôi: **dg.pthinh@gmail.com**
-- ⚡ Fun fact: **Tôi có thể hát và sáng tác nhạc 🎶**
+- 💬 Hỏi mình về **Backend, Node.js, NestJS**
+- 📫 Cách liên hệ với mình: **dg.pthinh@gmail.com**
+- ⚡ Fun fact: **Mình có thể hát và sáng tác nhạc 🎶**
